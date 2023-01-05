@@ -1,0 +1,20 @@
+body {
+    background: linear-gradient(#eb6060 0%, #f5e753 100%);
+}
+p{
+    font-family: bad system-ui;
+}
+.img{
+    border-style: dotted black;
+}
+
+.movie-head i{
+    float: right;
+    padding:5px;
+}
+
+.movie-head{
+    border-radius: 5px;
+    height: 30px;
+    vertical-align: middle;
+}
